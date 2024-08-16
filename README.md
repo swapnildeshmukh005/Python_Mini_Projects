@@ -1,3 +1,3 @@
   Python Mini Projects 
 
-  Guess The Upcoming Number 
+  - Guess The Upcoming Number 
